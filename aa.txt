@@ -1,0 +1,10 @@
+13 purple, 15 yellow, and 17 maroon chameleons are found on an island.
+ When two different-coloured chameleons come together, they both turn into the third colour.
+ Do all chameleons eventually have the same hue after a certain number of pairwise meetings?
+
+
+1There are two gates, one to hell and the other to heaven. 
+Two gatekeepers, one for each gate. One of them always speaks the truth and the other always lies but you don’t know which one guards which gate. 
+You are allowed only one question and you need to find out the gate to heaven. What is the question?   
+
+
